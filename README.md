@@ -1,6 +1,8 @@
-UC 7 - Versionamento - Turma 4 
-Atividade sobre Branchs
-Criado repositório para a atividade.
-Criado arquivo Readme
-Criado arquivo Gitignore
-Criada a Branch bancodedados e push no arquivo de mesmo nome. 
+UC 7 - *Versionamento* - Turma 4 <br>
+<b>*Atividade sobre Branchs*</b><br>
+Criado repositório local e remoto.<br>
+Criado arquivo Readme<br>
+Criado arquivo Gitignore <br>
+Criada a branch Login e subiu o arquivo remota.txt <br>
+Criada a Branch bancodedados e push no arquivo bancodedados.txt.<br>
+
