@@ -1,5 +1,5 @@
 UC 7 - *Versionamento* - Turma 4 <br>
-Atividade sobre Branchs<br> <br:
+Atividade sobre Branchs<br>
 Criado repositório local e remoto.<br>
 Criado arquivo Readme<br>
 Criado arquivo Gitignore <br>
